@@ -1,5 +1,7 @@
 # Intro to Deployment
 
+https://moringa.instructure.com/courses/571/pages/using-databases-with-render?module_item_id=85289
+
 ## Learning Goals
 
 - Understand what "deploying" means.
