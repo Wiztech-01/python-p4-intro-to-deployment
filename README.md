@@ -5,6 +5,16 @@ https://moringa.instructure.com/courses/571/pages/using-databases-with-render?mo
 # Conclusion to Deployment
 https://moringa.instructure.com/courses/571/pages/conclusion-to-deployment?module_item_id=85292
 
+https://moringa.instructure.com/courses/571/pages/bit-manipulation-and-hashing?module_item_id=85293
+
+https://moringa.instructure.com/courses/571/pages/manipulating-bits?module_item_id=85294
+
+https://moringa.instructure.com/courses/571/pages/hash-tables?module_item_id=85295
+
+https://moringa.instructure.com/courses/571/pages/optimizing-hashing-algorithms?module_item_id=85296
+
+https://moringa.instructure.com/courses/571/pages/sha-and-encryption?module_item_id=85297
+
 ## Learning Goals
 
 - Understand what "deploying" means.
