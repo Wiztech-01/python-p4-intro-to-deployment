@@ -2,6 +2,9 @@
 
 https://moringa.instructure.com/courses/571/pages/using-databases-with-render?module_item_id=85289
 
+# Conclusion to Deployment
+https://moringa.instructure.com/courses/571/pages/conclusion-to-deployment?module_item_id=85292
+
 ## Learning Goals
 
 - Understand what "deploying" means.
